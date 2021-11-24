@@ -1,0 +1,3 @@
+C:\cmake\cmake-3.22.0-rc2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\ex_lib_dynamic.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\ex_lib_dynamic.dir/objects.a @CMakeFiles\ex_lib_dynamic.dir\objects1.rsp
+C:\MinGW\bin\mingw32-g++.exe -g -shared -o libex_lib_dynamic.dll -Wl,--out-implib,libex_lib_dynamic.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\ex_lib_dynamic.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\ex_lib_dynamic.dir\linklibs.rsp

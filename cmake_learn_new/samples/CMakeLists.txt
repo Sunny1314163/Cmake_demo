@@ -1,0 +1,6 @@
+project(ex)
+add_subdirectory( ex.lib )
+add_subdirectory( ex.lib_dynamic )
+project(samples)
+#add_subdirectory( 0.main )
+ADD_SUBDIRECTORY(0.main)

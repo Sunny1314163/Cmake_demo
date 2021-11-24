@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\ex_lib.dir\\ex_lib.cpp.obj -c D:\\myProject\\learnProject\\cmake_learn_new\\samples\\ex.lib\\ex_lib.cpp",
+  "file": "D:/myProject/learnProject/cmake_learn_new/samples/ex.lib/ex_lib.cpp"
+},
+{
+  "directory": "D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib_dynamic",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe -Dex_lib_SHARED -Dex_lib_dynamic_EXPORTS  -g -o CMakeFiles\\ex_lib_dynamic.dir\\ex_lib.cpp.obj -c D:\\myProject\\learnProject\\cmake_learn_new\\samples\\ex.lib_dynamic\\ex_lib.cpp",
+  "file": "D:/myProject/learnProject/cmake_learn_new/samples/ex.lib_dynamic/ex_lib.cpp"
+},
+{
+  "directory": "D:/myProject/learnProject/cmake_learn_new/build/samples/0.main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\myProject\\learnProject\\cmake_learn_new\\samples\\0.main\\main.cpp",
+  "file": "D:/myProject/learnProject/cmake_learn_new/samples/0.main/main.cpp"
+},
+{
+  "directory": "D:/myProject/learnProject/cmake_learn_new/build/samples/0.main",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\lib.cpp.obj -c D:\\myProject\\learnProject\\cmake_learn_new\\samples\\0.main\\src\\lib.cpp",
+  "file": "D:/myProject/learnProject/cmake_learn_new/samples/0.main/src/lib.cpp"
+}
+]

@@ -1,0 +1,13 @@
+D:/myProject/learnProject/cmake_learn_new/build/CMakeFiles/edit_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/CMakeFiles/rebuild_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/CMakeFiles/edit_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/CMakeFiles/rebuild_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib/CMakeFiles/ex_lib.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib/CMakeFiles/edit_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib/CMakeFiles/rebuild_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib_dynamic/CMakeFiles/ex_lib_dynamic.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib_dynamic/CMakeFiles/edit_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/ex.lib_dynamic/CMakeFiles/rebuild_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/0.main/CMakeFiles/main.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/0.main/CMakeFiles/edit_cache.dir
+D:/myProject/learnProject/cmake_learn_new/build/samples/0.main/CMakeFiles/rebuild_cache.dir
