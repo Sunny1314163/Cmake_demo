@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libex_lib.a CMakeFiles/ex_lib.dir/ex_lib.cpp.obj
+C:\MinGW\bin\ranlib.exe libex_lib.a
